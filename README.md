@@ -1,6 +1,7 @@
 # Lab9-DL
 
-# andre marroquin
-# joaquin puente
-# sergio orellana
-# nelson garcia
+## Integrantes 
+- Andre Marroquin
+- Joaquin Puente
+- Sergio Orellana
+- Nelson Garcia
